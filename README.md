@@ -8,7 +8,7 @@ Just a project more for myself to refer back to when working on future Bitcoin p
   cd ruby-generatebtc
   ruby main.rb
   ```
-*An HTML File with your generated Wallet will output to screen and be instantly deleted from memory.* 
+*A HTML File with your generated Wallet will output to screen and be instantly deleted from memory.* 
 
 
 # DISCLAIMER
